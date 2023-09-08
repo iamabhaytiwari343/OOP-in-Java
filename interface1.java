@@ -9,6 +9,8 @@ public class interface1 {
     }
 }
 
+
+
 // Define an interface called 'Drawable'
 interface Drawable {
     void draw(); // This method must be implemented by classes that implement the 'Drawable'
