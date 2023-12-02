@@ -48,6 +48,9 @@ class ElectricCar extends Car {
 
     public int getBatteryCapacity() {
         return batteryCapacity;
+
+
+        
     }
 }
 
